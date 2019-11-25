@@ -6,13 +6,13 @@
  * @param {string} locale
  * @return {string}
  */
-var AudioAssets = require('./lib/react');
+// var AudioAssets = require('./lib/react');
 
 // module.exports = function(number, locale) {
 //     return number.toLocaleString(locale);
 // };
 
-var React = require('react');
+var React = require('./lib/react');
 
 var buttonStyle = {
   margin: '10px 10px 10px 0'
