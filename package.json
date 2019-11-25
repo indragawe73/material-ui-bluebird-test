@@ -1,0 +1,23 @@
+{
+  "name": "material-ui-bluebird-test",
+  "version": "0.1.0",
+  "description": "material ui for testing Blurbird UIKIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indragawe73/material-ui-bluebird-test.git"
+  },
+  "author": "“Bluebird <“indragawe73@gmail.com”> (https://pwa-react-9a926.firebaseapp.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indragawe73/material-ui-bluebird-test/issues"
+  },
+  "homepage": "https://github.com/indragawe73/material-ui-bluebird-test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
